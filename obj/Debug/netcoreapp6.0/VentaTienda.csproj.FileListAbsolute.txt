@@ -1,0 +1,15 @@
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.csproj.AssemblyReference.cache
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.AssemblyInfoInputs.cache
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.AssemblyInfo.cs
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.csproj.CoreCompileInputs.cache
+/home/runner/Parcial/bin/Debug/netcoreapp6.0/VentaTienda
+/home/runner/Parcial/bin/Debug/netcoreapp6.0/VentaTienda.deps.json
+/home/runner/Parcial/bin/Debug/netcoreapp6.0/VentaTienda.runtimeconfig.json
+/home/runner/Parcial/bin/Debug/netcoreapp6.0/VentaTienda.dll
+/home/runner/Parcial/bin/Debug/netcoreapp6.0/ref/VentaTienda.dll
+/home/runner/Parcial/bin/Debug/netcoreapp6.0/VentaTienda.pdb
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.dll
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/ref/VentaTienda.dll
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.pdb
+/home/runner/Parcial/obj/Debug/netcoreapp6.0/VentaTienda.genruntimeconfig.cache
